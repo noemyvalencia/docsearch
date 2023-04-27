@@ -2,8 +2,7 @@
   
     
       
-        Introduction
-        Somatic gain-of-function mutations in exons encoding the epidermal growth factor
+        c
         receptor (EGFR) tyrosine kinase domain are found in about 10% of non-small cell lung
         cancers (NSCLCs) from the United States [1,2,3], with higher percentages observed in east
         Asia [2,4,5,6]. Some 90% of NSCLC-associated mutations occur as either multi-nucleotide
